@@ -1,2 +1,2 @@
-# -1-project
-my first project not yet decided what it will be
+#AI project as a beginner
+It wont be nothing really outstanding, i just want to improve my skills with langugaes and get to use github
